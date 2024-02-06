@@ -1,3 +1,7 @@
+## Folder guide
+1. techfest-frontend-main folder contains code for frontend in react
+2. ai_models folder contains code files for ai_models, LLMv3 file generates sentences required for image generation, music generation and poster generation in Asset_Generation file. Asset_Generation generates the required assets for the frontend. The code files are in ipynb to show that the output corresponds with the demo video.
+   
 ## Inspiration
 Reference Code 5E
 With 16 ministries and over 50 statutory boards, the traditional storyboarding process for government policy communication can be time consuming and challenging. With newer policies coming out at an increased rate to address the changes in economic conditions and challenges in Singapore, it is essential that the creative minds behind policy communication are able to communicate these newer policies to the general public quickly and effectively. The recent advances in AI for text generation, Image generation and Audio generation have inspired us to leverage on these tools to assist in the traditional storyboarding process 
@@ -29,9 +33,6 @@ The transformative benefits of ASAP GPT are evident in its ability to dramatical
 ## What we learned
 1. How to use huggingface
 2. How to implement AI models from huggingface
-
-## Folder explaination
-1. 
 
 ## What's next for Team_55_ASAPGPT
 **Explore different usecases of AI for public good!** :smile:
