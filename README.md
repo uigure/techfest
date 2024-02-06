@@ -1,6 +1,10 @@
 ## Folder explaination guide
 1. **techfest-frontend-main folder** contains code for frontend in react created by @KZY20112001
 3. **ai_models folder** contains code files for ai_models, LLMv3 file created by @uigure generates sentences required for image generation, music generation and poster generation in Asset_Generation file created by @leongseng99. Asset_Generation file generates the required assets for the frontend. The code files are in ipynb to show that the output corresponds with the demo video.
+
+## You can download the generated assets for the 2 usecases stored in zip file, the video is named XX_upgrade_with_audio.mp4
+1. CPF: https://drive.google.com/file/d/1u9HNYtfofv3rRNC_JpRpic8VwrWRwyPd/view?usp=sharing
+2. HEALTHIERSG: https://drive.google.com/file/d/1hCj9bHl5sQ_m9XrbglVDxtV05LXagGRX/view?usp=sharing
    
 ## Inspiration
 Reference Code 5E
